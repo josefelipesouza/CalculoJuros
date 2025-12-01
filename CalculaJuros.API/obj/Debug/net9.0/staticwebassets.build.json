@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5YR3N/O3OmS4xocpBV8xzR2gEqbklftBVM1GnMa4eY4=",
+  "Source": "CalculaJuros.API",
+  "BasePath": "_content/CalculaJuros.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <!-- O SDK deve ser Microsoft.NET.Sdk -->
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup><!-- Adicione referências aos projetos Application e Domain necessários aqui -->
+        <!-- Exemplo: <ProjectReference Include="..\CalculaJuros.Application\CalculaJuros.Application.csproj" /> -->
+    
+      <ProjectReference Include="..\CalculaJuros.Domain\CalculaJuros.Domain.csproj" />
+    </ItemGroup>
+
+    <!-- Remova quaisquer referências a pacotes de API ou web -->
+
+</Project>

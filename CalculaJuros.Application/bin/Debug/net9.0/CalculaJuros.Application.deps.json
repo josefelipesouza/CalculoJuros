@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CalculaJuros.Application/1.0.0": {
+        "dependencies": {
+          "CalculaJuros.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CalculaJuros.Application.dll": {}
+        }
+      },
+      "CalculaJuros.Domain/1.0.0": {
+        "runtime": {
+          "CalculaJuros.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculaJuros.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculaJuros.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

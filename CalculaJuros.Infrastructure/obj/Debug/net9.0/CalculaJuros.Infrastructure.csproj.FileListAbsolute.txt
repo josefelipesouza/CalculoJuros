@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\bin\Debug\net9.0\CalculaJuros.Infrastructure.deps.json
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\bin\Debug\net9.0\CalculaJuros.Infrastructure.dll
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\bin\Debug\net9.0\CalculaJuros.Infrastructure.pdb
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\bin\Debug\net9.0\CalculaJuros.Domain.dll
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\bin\Debug\net9.0\CalculaJuros.Domain.pdb
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\CalculaJuros.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\CalculaJuros.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\CalculaJuros.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\CalculaJuros.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\CalculaJuros.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\CalculaJ.8EE4FA15.Up2Date
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\CalculaJuros.Infrastructure.dll
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\refint\CalculaJuros.Infrastructure.dll
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\CalculaJuros.Infrastructure.pdb
+C:\Users\User\Desktop\dev\.net\CalculaJuros\CalculaJuros.Infrastructure\obj\Debug\net9.0\ref\CalculaJuros.Infrastructure.dll

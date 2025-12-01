@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <!-- O SDK correto para uma biblioteca de classes que não é executável é "Microsoft.NET.Sdk" -->
+
+    <PropertyGroup>
+        <!-- Mantemos o TargetFramework para compatibilidade -->
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <!-- Remova todas as referências a pacotes ASP.NET Core aqui, como OpenApi ou Swashbuckle.
+         Uma camada Domain deve ser o mais pura possível. -->
+
+</Project>

@@ -1,0 +1,6 @@
+@CalculaJuros.Application_HostAddress = http://localhost:5177
+
+GET {{CalculaJuros.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

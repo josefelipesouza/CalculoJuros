@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaJuros.API", "CalculaJuros.API\CalculaJuros.API.csproj", "{9591D75F-56C7-4A79-847C-4D7C787AB6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaJuros.Application", "CalculaJuros.Application\CalculaJuros.Application.csproj", "{58EA74EF-E35C-4926-8BFB-1721396101A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaJuros.Domain", "CalculaJuros.Domain\CalculaJuros.Domain.csproj", "{8EF8587F-6680-4FA1-B6B5-D4A7021B5E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaJuros.Infrastructure", "CalculaJuros.Infrastructure\CalculaJuros.Infrastructure.csproj", "{86A3D630-B007-4CDC-9C4F-B1BB44BBF747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9591D75F-56C7-4A79-847C-4D7C787AB6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9591D75F-56C7-4A79-847C-4D7C787AB6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9591D75F-56C7-4A79-847C-4D7C787AB6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9591D75F-56C7-4A79-847C-4D7C787AB6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EA74EF-E35C-4926-8BFB-1721396101A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EA74EF-E35C-4926-8BFB-1721396101A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EA74EF-E35C-4926-8BFB-1721396101A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EA74EF-E35C-4926-8BFB-1721396101A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF8587F-6680-4FA1-B6B5-D4A7021B5E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF8587F-6680-4FA1-B6B5-D4A7021B5E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF8587F-6680-4FA1-B6B5-D4A7021B5E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF8587F-6680-4FA1-B6B5-D4A7021B5E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A3D630-B007-4CDC-9C4F-B1BB44BBF747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A3D630-B007-4CDC-9C4F-B1BB44BBF747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A3D630-B007-4CDC-9C4F-B1BB44BBF747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A3D630-B007-4CDC-9C4F-B1BB44BBF747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
